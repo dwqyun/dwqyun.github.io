@@ -2,7 +2,7 @@ clone_depth: 5
 
 environment:
   access_token:
-    secure: l4TZBH5gIXLHfint53gwf5WnP0jS41WYa5CflTQ+1YjhTh03kGSHXGYG51s+3Fjy
+    secure: /hRn5oWBNjevN/NcOgukwt1VZVEev1Fr26QQ1tgGRxm3JQuwQbswPA0KahMn56JT7J8IKm4IKI9HKoxidH+TW4QcXltUihR6Jg5XXmN1RDLmmCdAqvh+krnIrO03cO2HiKXqE/ctyQTSkWQmc09fZw2GAy0vs98gqQYfZBrCGxtH3fO7DgnnB7VoKVtwX0xqZq70REO8lLHTaVq2ate1c+nhEUkmlZgeqNgukoyAH3NEmfcRqOBptqUMtyA+SQq/m9+1yw4Ch7U/RBVmcTjd5DzpnG8MiARUOi4irQ+uZEUzwrh3m3cZ77qJ5TWOQheX6zdP7hJ0CcPL79lSSriyrsBHrsy5VMYnGRS1NduKS1Vs2NxnEa6HkGC6Ao53krtQLjIpcGS2Oll+e45EbqBsktINX53mTJsXAG4/ffU1tigQ8ZwH6Bo5m26TxXL7uzq4/2EVskuAOEzw58Yog775rkM2AufAxU/8ZjYR6kpk3S56e3YfcFq9qzbop7Mk+GPE
 
 install:
   - node --version
